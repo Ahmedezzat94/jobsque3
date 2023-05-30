@@ -22,6 +22,7 @@ void main() {
   runApp(JOBSQUE());
 }
 
+
 class JOBSQUE extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
